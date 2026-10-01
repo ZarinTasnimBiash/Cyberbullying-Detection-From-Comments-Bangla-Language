@@ -123,3 +123,7 @@ If you use this code or the dataset, please cite:
 ## Authors
 
 Md Faisal Ahmed, Zalish Mahmud, Zarin Tasnim Biash, Ahmed Ann Noor Ryen, Arman Hossain, Faisal Bin Ashraf
+
+## License
+
+This project is released under the [MIT License](LICENSE).
