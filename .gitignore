@@ -1,0 +1,10 @@
+# Data and generated outputs (download the dataset from Mendeley instead)
+*.xlsx
+*.hdf5
+*.pkl
+*.tsv
+model2.png
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
